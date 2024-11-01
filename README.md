@@ -35,3 +35,10 @@ The app are the following functionalities
 
 </details>
 
+### Project Link
+
+<details> 
+<summary>Click to Get Project Link</summary>
+<br/>
+- <a href =" https://KalitReactCp5Wl.ccbp.tech">My Project</a>
+</details>
