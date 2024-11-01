@@ -1,0 +1,59 @@
+.bg-containerrrrr {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: cetner;
+  padding: 20px;
+  text-align: center;
+}
+
+.heading {
+  font-family: 'Bree Serif';
+  font-size: 34px;
+  font-weight: bold;
+  color: yellowgreen;
+  margin-bottom: 14px;
+}
+.description {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+.button {
+  width: 140px;
+  padding: 8px;
+  background-color: white;
+  font-family: 'Roboto';
+  font-size: 22px;
+  border-radius: 8px;
+  border: 0 solid;
+}
+
+@media screen and (min-width: 576px) {
+  .heading {
+    font-size: 48px;
+  }
+  .description {
+    font-size: 30px;
+  }
+  .button {
+    width: 160px;
+    font-size: 28px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 78px;
+  }
+  .description {
+    font-size: 50px;
+  }
+  .button {
+    width: 280px;
+    font-size: 48px;
+    padding: 12px;
+  }
+}
